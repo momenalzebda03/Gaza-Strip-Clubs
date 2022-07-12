@@ -1,0 +1,718 @@
+.startdiv {
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    margin-top: 0%;
+}
+.sorts {
+    font-size: 200%;
+    background-color: red;
+    width: 8%;
+    position: absolute;
+    left: 9%;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 25%;
+    padding: 0.1%;
+}
+.sorts:hover {
+    background-color: blue;
+    color: white;
+    border: 2px solid red;
+    transition: 0.5s;
+}
+.LENS {
+    font-size: 150%;
+    color: white;
+    position: absolute;
+    left: 17.5%;
+    top: 30%;
+}
+.Every {
+    font-size: 150%;
+    position: absolute;
+    left: 30%;
+    top: 0%;
+    color: white; 
+    padding-top: 1.3%;   
+}
+.Every:hover {
+    padding-top: 1.3%;
+    height: 80px;
+    background-color: red;
+}
+.Every1 {
+    font-size: 150%;
+    position: absolute;
+    left: 55%;
+    top: 0%;
+    color: white; 
+    padding-top: 1.3%;   
+}
+.Every1:hover {
+    padding-top: 1.3%;
+    height: 80px;
+    background-color: red;
+}
+.img {
+    border-radius: 50%;
+    margin-top: 1.5%;
+    margin-left: 4%;
+    width: 2%;
+}
+.img:hover {
+    width: 3%;
+    transform: rotate(360deg);
+    transition: 1s;
+}
+.img2 {
+    margin-top: 0%;
+    width: 100%;
+    height: 665px;
+}
+.imgcohct {
+    margin-top: 2.5%;
+    width: 100%;
+    height: 660px;
+    display: none;
+}
+.left {
+    margin-top: 4%;
+}
+.right {
+    margin-top: 4%;
+}
+.leftpng {
+    display: inline-block;
+}
+.singin {
+    font-size: 150%;
+    position: absolute;
+    left: 65%;
+    top: 0%;
+    color: white; 
+    padding-top: 1.3%;   
+}
+.singin:hover {
+    padding-top: 1.3%;
+    height: 80px;
+    background-color: red;
+}
+.imgp {
+    font-size: 150%;
+    color: black;
+    margin-top: -5%;
+    margin-left: 45%;
+}
+.imgp1 {
+    font-size: 150%;
+    color: black;
+    position: absolute;
+    top: 94%;
+    left: 45%;
+    display: none;
+}
+.h1 {
+    position: absolute;
+    top: 104%;
+    left: 75%;
+    color: black;
+}
+.span {
+    color: gold;
+}
+.red1 {
+    background-color: orange;
+    height: 312.5px;
+    width: 100%;
+    margin-top: -6%;
+}
+.submit {
+    color: black;
+    position: absolute;
+    top: 113%;
+    left: 80%;
+    height: 10%;
+    width: 10%;
+    border-radius: 40%;
+}
+.submit:hover {
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+.submit1 {
+    color: black;
+    border-radius: 40%;
+    position: absolute;
+    top: 113%;
+    left: 48%;
+    height: 10%;
+    width: 10%;
+}
+.submit1:hover {
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+.submit2 {
+    color: black;
+    border-radius: 40%;
+    position: absolute;
+    top: 113%;
+    left: 10%;
+    height: 10%;
+    width: 10%;
+}
+.submit2:hover {
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+.stopdiv {
+    background-color: blue;
+    position: absolute;
+    top: 125%;
+    width: 100%;
+    height: 30px;
+}
+.stopdiv1 {
+    background-color: blue;
+    position: absolute;
+    top: 750%;
+    width: 100%;
+    height: 30px;
+}
+.stopdiv2 {
+    background-color: blue;
+    position: absolute;
+    top: 96%;
+    width: 100%;
+    height: 30px;
+}
+.Copyrights {
+    position: absolute;
+    left: 46.5%;
+    top: 25%;
+    color: white;
+}
+.copyrightspng {
+    width: 1.5%;
+    border-radius: 50%;
+    position: absolute;
+    left: 44.5%;
+    top: 20%;
+}
+.copyrightspng:hover {    
+    transform: rotate(360deg);
+    transition: 1s;
+}
+.apple {
+    width: 45%;
+    margin-left: 55%;
+    border-radius: 10%;
+    border: 2px solid orange;
+}
+.div {
+    margin-top: -30%;
+    margin-left: -20%;
+}
+.div2 {
+    margin-top: -20%;
+    margin-left: -30%;
+}
+.strath2 {
+    margin-left: 10%;
+}
+.div:hover {
+    color: red;
+    transition: 0.3s;
+}
+.alkala {
+    width: 45%;
+    margin-left: 10%;
+    margin-top: 15%;
+    border-radius: 10%;
+    border: 2px solid orange;
+}
+.div1 {
+    margin-top: -25%;
+    margin-left: 50%;
+} 
+.div3 {
+    margin-top: -20%;
+    margin-left: 50%;
+}
+.div4 {
+    margin-top: -20%;
+    margin-left: -30%;
+}
+.div5 {
+    margin-top: -20%;
+    margin-left: 50%;
+}
+.div6 {
+    margin-top: -25%;
+    margin-left: -35%;
+}
+.div7 {
+    margin-top: -25%;
+    margin-left: 55%;
+}
+.div8 {
+    margin-top: -25%;
+    margin-left: -35%;
+}
+.div9 {
+    margin-top: -25%;
+    margin-left: 55%;
+}
+.div10 {
+    margin-top: -25%;
+    margin-left: -35%;
+}
+.div11 {
+    margin-top: -20%;
+    margin-left: 55%;
+}
+.div11:hover {
+    color: red;
+    transition: 0.3s;
+}
+.div7:hover {
+    color: red;
+    transition: 0.3s;
+}
+.div8:hover {
+    color: red;
+    transition: 0.3s;
+}
+.div9:hover {
+    color: red;
+    transition: 0.3s;
+}
+.div10:hover {
+    color: red;
+    transition: 0.3s;
+}
+.div6:hover {
+    color: red;
+    transition: 0.3s;
+}
+.div5:hover {
+    color: red;
+    transition: 0.3s;
+}
+.div4:hover {
+    color: red;
+    transition: 0.3s;
+}
+.div3:hover {
+    color: red;
+    transition: 0.3s;
+}
+.div1:hover {
+    color: red;
+    transition: 0.3s;
+}
+.div2:hover {
+    color: red;
+    transition: 0.3s;
+}
+.batanon {
+    width: 45%;
+    margin-left: 55%;
+    margin-top: 9%;
+    border-radius: 10%;
+    border: 2px solid orange;
+}
+.albreak {
+    width: 45%;
+    margin-left: 10%;
+    margin-top: 4%;
+    border-radius: 10%;
+    border: 2px solid orange;
+}
+.alnoserat {
+    width: 45%;
+    margin-left: 55%;
+    margin-top: 4%;
+    border-radius: 10%;
+    border: 2px solid orange;
+}
+.nama {
+    width: 45%;
+    margin-left: 10%;
+    margin-top: 4%;
+    border-radius: 10%;
+    border: 2px solid orange;
+}
+.alkabesea {
+    width: 45%;
+    margin-left: 55%;
+    margin-top: 6%;
+    border-radius: 10%;
+    border: 2px solid orange;
+}
+.almazee {
+    width: 45%;
+    margin-left: 10%;
+    margin-top: 9%;
+    border-radius: 10%;
+    border: 2px solid orange;
+}
+.alaaksa {
+    width: 45%;
+    margin-left: 55%;
+    margin-top: 9%;
+    border-radius: 10%;
+    border: 2px solid orange;
+}
+.kanyuons {
+    width: 45%;
+    margin-left: 10%;
+    margin-top: 9%;
+    border-radius: 10%;
+    border: 2px solid orange;
+}
+.alzeton {
+    width: 45%;
+    margin-left: 55%;
+    margin-top: 9%;
+    border-radius: 10%;
+    border: 2px solid orange;
+}
+.alatta {
+    width: 45%;
+    margin-left: 11%;
+    margin-top: 9%;
+    border-radius: 10%;
+    border: 2px solid orange; 
+}
+.starth1 {
+    position: absolute;
+    top: 15%;
+    right: 0%;
+    background-color: #eee;
+    width: 39%;
+    text-align: right;
+    border-width: 0px 0px 0px 10px;
+    border-style: solid;
+    border-color: orange;
+}
+.divfrontend {
+    text-align: center;
+    background-color: greenyellow;
+    height: 500px;
+    border: 2px solid red;
+    position: absolute;
+    top: 25%;
+    left: 20%;
+}
+.frondend {
+    color: blueviolet;
+}
+.img1 {
+    margin-left: 43%;
+    margin-top: 10%;
+    border-radius: 10%;    
+}
+.img1:hover {
+    border: 5px solid red;
+    transition: 0.5s;
+}
+.img3 {
+    margin-left: 10%;
+    margin-top: -30%;
+    border-radius: 10%;
+}
+.img3:hover {
+    border: 5px solid blueviolet;
+    transition: 0.5s;
+}
+.coach {
+    position: absolute;
+    top: 80%;
+    left: 62%;
+    font-size: 150%;
+    color: white;
+}
+.athlete {
+    position: absolute;
+    top: 79%;
+    left: 12%;
+    font-size: 150%;
+    color: black;
+}
+.body {
+    background-color: rgba(0, 0, 255, 0.479);
+}
+.singin1 {
+    height: 550px;
+    width: 60%;
+    background-color: white;
+    position: absolute;
+    left: 20%;
+    top: 15%;
+}
+.create {
+    text-align: center;
+    color: blue;
+}
+.input {
+    width: 60%;
+    margin-top: 4%;
+    margin-left: 20%;
+}
+.input:hover {
+    background-color: #eee;
+    transition: 0.5s;
+}
+.input1 {
+    width: 60%;
+    margin-top: 3%;
+    margin-left: 20%;
+}
+.input1:hover {
+    background-color: #eee;
+    transition: 0.5s;
+}
+.submit3 {
+    position: absolute;
+    top: 65%;
+    left: 25%;
+    background-color: orange;
+    color: white;
+}
+.submit3:hover {
+    background-color: red;
+    transition: 1s;
+}
+.reset {
+    position: absolute;
+    top: 65%;
+    left: 70%;
+    background-color: orange;
+    color: white;
+}
+.reset:hover {
+    background-color: red;
+    transition: 1s;
+}
+.submit4 {
+    position: absolute;
+    left: 20%;
+    top: 90%;
+    background-color: orange;
+    color: white;
+}
+.submit4:hover {
+    background-color: red;
+    transition: 1s;
+}
+.submit6 {
+    position: absolute;
+    left: 80%;
+    top: 89.5%;
+    background-color: orange;
+    color: white;
+}
+.submit6:hover {
+    background-color: red;
+    transition: 1s;
+}
+.reset1 {
+    position: absolute;
+    top: 90%;
+    left: 70%;
+    background-color: orange;
+    color: white;
+}
+.reset1:hover {
+    background-color: red;
+    transition: 1s;
+}
+.divRegister {
+    background-color: orangered;
+    height: 500px;
+    width: 60%;
+    position: absolute;
+    top: 680%;
+    left: 22%;
+}
+.Myregistrationpage {
+    color: white;
+    margin-left: 60%;
+}
+.input2 {
+    width: 70%;
+    display: flex;
+    margin-top: 6%;
+    margin-left: 15%;
+}
+.submit5 {
+    margin-top: 4%;
+    margin-left: 30%;
+}
+.submit5:hover {
+    background-color: red;
+    transition: 1s;
+}
+.backcolor {
+    color: white;
+    position: absolute;
+    top: 94%;
+    text-align: center;
+    background-color: rebeccapurple;
+    width: 100%;
+    display: none;
+}
+.red {
+    background-color: darkgoldenrod;
+    height: 250px;
+    width: 100%;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+}
+.userlogin {
+    color: white;
+    margin-top: 6%;
+    text-align: center;
+}
+.green {
+    height: 400px;
+    width: 70%;
+    background-color: green;
+    position: absolute;
+    left: 16%;
+    top: 40%;
+}
+.email1 {
+    margin-top: 10%;
+    margin-left: 20%;
+    display: flex;
+    width: 70%;
+    height: 30px;
+}
+.email1:hover {
+    background-color: #eee;
+}
+.Email {
+    font-size: 150%;
+    color: white;
+    position: absolute;
+    top: 26%;
+    left: 12%;
+}
+.password {
+    font-size: 150%;
+    color: white;
+    position: absolute;
+    top: 61.5%;
+    left: 11%;
+}
+.divorang {
+    background-color: orange;
+    height: 30px;
+    width: 10%;
+    position: absolute;
+    top: 20%;
+    left: 75%;
+}
+.name {
+    color: white;
+    margin-top: 0%;
+    text-align: center;
+}
+.coachsname {
+    text-align: center;
+    width: 180%;
+    height: 30px;
+    background-color: #eee;
+    margin-left: -180%;
+    margin-top: -24%;
+}
+.divorang1 {
+    background-color: orange;
+    height: 30px;
+    width: 10%;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+}
+.coachsname1 {
+    text-align: center;
+    width: 180%;
+    height: 30px;
+    background-color: #eee;
+    margin-left: -180%;
+    margin-top: -24%;
+}
+.divorang2 {
+    background-color: orange;
+    height: 30px;
+    width: 10%;
+    position: absolute;
+    top: 30%;
+    left: 75%;
+}
+.coachsname2 {
+    text-align: center;
+    width: 180%;
+    height: 30px;
+    background-color: #eee;
+    margin-left: -180%;
+    margin-top: -24%;
+}
+.divorang3 {
+    background-color: orange;
+    height: 30px;
+    width: 10%;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+}
+.coachsname3 {
+    text-align: center;
+    width: 180%;
+    height: 30px;
+    background-color: #eee;
+    margin-left: -180%;
+    margin-top: -24%;
+}
+.tablecouhe {
+    position: absolute;
+    top: 35%;
+    left: 85%;
+}
+.table1 {
+    position: absolute;
+    top: 45%;
+    left: 70%;
+    width: 25%;
+}
+.tr {
+    color: white;
+    background-color: green;
+}
+.table2 {
+    position: absolute;
+    top: 45%;
+    left: 10%;
+    width: 25%; 
+}
+.tablecouhe1 {
+    position: absolute;
+    top: 35%;
+    left: 30%;
+}
+.gold {
+    background-color: gold;
+    color: black;
+}
+.table3 {
+    position: absolute;
+    top: 45%;
+    width: 100%;
+}
